@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RawatPunit
-- 👀 I’m interested in Web-Development
-- On My way to be a MERN developer
+- 👀 Test Engineer on the way to build a Software Development sense.
 - Languages/Skills Learnt - Java, HTML5, CSS, JS,(RDMS and NoSQL)--> MongoDB and PostgreSQL,NodeJS
 - Frameworks/Libraries - Bootstrap, JQuery, ExpressJS
 - 🌱 I’m currently learning React
